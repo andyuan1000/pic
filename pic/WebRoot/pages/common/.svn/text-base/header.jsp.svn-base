@@ -1,0 +1,3 @@
+<link rel="shortcut icon" href="<%=request.getContextPath()%>/images/favicon.ico" type="image/x-icon"/>
+<div id="logo-singtel"><img src="<%=request.getContextPath()%>/images/st-logo.gif" width="120" height="39" /></div>
+<div id="logo-onepass"><img src="<%=request.getContextPath()%>/images/onepass-logo.gif" width="124" height="25" /></div>

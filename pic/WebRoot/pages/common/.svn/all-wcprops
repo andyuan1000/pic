@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repo/stcsso/!svn/ver/7719/trunk/web/pages/common
+END
+meta.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repo/stcsso/!svn/ver/672/trunk/web/pages/common/meta.jsp
+END
+header.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repo/stcsso/!svn/ver/7719/trunk/web/pages/common/header.jsp
+END
+error.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repo/stcsso/!svn/ver/6454/trunk/web/pages/common/error.jsp
+END
+footer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repo/stcsso/!svn/ver/6242/trunk/web/pages/common/footer.jsp
+END
